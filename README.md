@@ -2,6 +2,8 @@
 
 Shows how to use progressive reponse and async/await to access web resources
 
+Video at https://youtu.be/m5TFo0B7gKI
+
 Instructions (see docx)
 
 1. Modify the intent JSON. Save and Build the model
